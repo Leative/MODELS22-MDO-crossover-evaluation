@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ASCII" standalone="no"?>
+<architectureCRA:ClassModel xmlns:architectureCRA="http://momot.big.tuwien.ac.at/architectureCRA/1.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="test" xmi:version="2.0" xsi:schemaLocation="">
+      
+    <features dataDependency="//@features.7 //@features.8" functionalDependency="//@features.2" name="M4" xsi:type="architectureCRA:Method"/>
+      
+    <features dataDependency="//@features.6 //@features.7" functionalDependency="//@features.0 //@features.3" name="M3" xsi:type="architectureCRA:Method"/>
+      
+    <features dataDependency="//@features.4" functionalDependency="//@features.3" name="M2" xsi:type="architectureCRA:Method"/>
+      
+    <features dataDependency="//@features.5 //@features.7" functionalDependency="//@features.0 //@features.1" name="M1" xsi:type="architectureCRA:Method"/>
+      
+    <features name="A2" xsi:type="architectureCRA:Attribute"/>
+      
+    <features name="A1" xsi:type="architectureCRA:Attribute"/>
+      
+    <features name="A4" xsi:type="architectureCRA:Attribute"/>
+      
+    <features name="A3" xsi:type="architectureCRA:Attribute"/>
+      
+    <features name="A5" xsi:type="architectureCRA:Attribute"/>
+    
+</architectureCRA:ClassModel>

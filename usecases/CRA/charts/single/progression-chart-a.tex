@@ -1,0 +1,46 @@
+\documentclass[]{standalone}
+\usepackage{xcolor}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.17}
+
+\definecolor{RYB1}{RGB}{141, 211, 199}
+\definecolor{RYB2}{RGB}{255, 255, 179}
+\definecolor{RYB3}{RGB}{190, 186, 218} %purple
+\definecolor{RYB4}{RGB}{251, 128, 114} %red
+\definecolor{RYB5}{RGB}{128, 177, 211} %blue
+\definecolor{RYB6}{RGB}{253, 180, 98}
+\definecolor{RYB7}{RGB}{179, 222, 105} %green
+
+\begin{document}
+\begin{tikzpicture}
+\begin{axis}[
+		xmax=120,
+		ylabel shift = -5pt,
+		xlabel shift = -5pt,	
+		xlabel=Iterations,
+		ylabel=Mean CRA-Index,
+		label style={font=\tiny},
+		tick label style={font=\tiny},
+		height=5cm,
+    legend columns=1,
+		every axis plot/.append style={thick},
+		line join=bevel,
+		legend style={
+					at={(0.685,0.8)},
+					font=\tiny,
+					/tikz/column 2/.style={
+		       column sep=2pt,
+		    },
+    		anchor=north}]
+	\addplot[color=RYB5] table [x expr=\thisrowno{0}/100, col sep=comma, each nth point=5] {inverted-MDEO_SC-CRA-CRA_Model_A-average-objective-progression.csv};
+		\addlegendentry{\scalebox{0.9}{SCi}}
+	\addplot[color=RYB4] table [x expr=\thisrowno{0}/100, col sep=comma, each nth point=5] {inverted-MDEO_UC-CRA-CRA_Model_A-average-objective-progression.csv};
+		\addlegendentry{\scalebox{0.9}{UCi}}
+	\addplot[color=RYB7] table [x expr=\thisrowno{0}/100, col sep=comma, each nth point=5] {inverted-MDEO_SCRF-CRA-CRA_Model_A-average-objective-progression.csv};
+      \addlegendentry{\scalebox{0.9}{SCf}}
+	\addplot[color=RYB3] table [x expr=\thisrowno{0}/100, col sep=comma, each nth point=5] {inverted-MDEO_SIC-CRA-CRA_Model_A-average-objective-progression.csv};
+      \addlegendentry{\scalebox{0.9}{SICi}}
+	
+\end{axis}
+\end{tikzpicture}
+\end{document}

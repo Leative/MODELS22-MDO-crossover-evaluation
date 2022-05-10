@@ -1,0 +1,1827 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.5.15)  23 MAY 2020 17:59
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**progression-chart-b.tex
+(./progression-chart-b.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(c:/texlive/2020/texmf-dist/tex/latex/standalone/standalone.cls
+Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files stan
+dalone
+(c:/texlive/2020/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+(c:/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+(c:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(c:/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(c:/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+
+(c:/texlive/2020/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count167
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\sa@internal=\count168
+\c@sapage=\count169
+
+(c:/texlive/2020/texmf-dist/tex/latex/standalone/standalone.cfg
+File: standalone.cfg 2018/03/26 v1.3a Default configuration file for 'standalon
+e' class
+)
+(c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count170
+\c@section=\count171
+\c@subsection=\count172
+\c@subsubsection=\count173
+\c@paragraph=\count174
+\c@subparagraph=\count175
+\c@figure=\count176
+\c@table=\count177
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+\sa@box=\box45
+)
+(c:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(c:/texlive/2020/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen137
+\pgfutil@tempdimb=\dimen138
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)
+) (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box46
+
+(c:/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks20
+))
+\pgf@x=\dimen139
+\pgf@y=\dimen140
+\pgf@xa=\dimen141
+\pgf@ya=\dimen142
+\pgf@xb=\dimen143
+\pgf@yb=\dimen144
+\pgf@xc=\dimen145
+\pgf@yc=\dimen146
+\pgf@xd=\dimen147
+\pgf@yd=\dimen148
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count178
+\c@pgf@countb=\count179
+\c@pgf@countc=\count180
+\c@pgf@countd=\count181
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
+\pgf@sys@id@count=\count182
+ (c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count183
+\pgfsyssoftpath@bigbuffer@items=\count184
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen149
+\pgfmath@count=\count185
+\pgfmath@box=\box47
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
+x)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
+.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
+ex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
+de.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
+x)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
+etics.code.tex)))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count186
+))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen150
+\pgf@picmaxx=\dimen151
+\pgf@picminy=\dimen152
+\pgf@picmaxy=\dimen153
+\pgf@pathminx=\dimen154
+\pgf@pathmaxx=\dimen155
+\pgf@pathminy=\dimen156
+\pgf@pathmaxy=\dimen157
+\pgf@xx=\dimen158
+\pgf@xy=\dimen159
+\pgf@yx=\dimen160
+\pgf@yy=\dimen161
+\pgf@zx=\dimen162
+\pgf@zy=\dimen163
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
+e.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen164
+\pgf@path@lasty=\dimen165
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
+x
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen166
+\pgf@shorten@start@additional=\dimen167
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box48
+\pgf@hbox=\box49
+\pgf@layerbox@main=\box50
+\pgf@picture@serial@count=\count187
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
+.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen168
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
+ode.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen169
+\pgf@pt@y=\dimen170
+\pgf@pt@temp=\dimen171
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
+de.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen172
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen173
+\pgf@sys@shading@range@num=\count188
+\pgf@shadingcount=\count189
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box51
+))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
+.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (c:/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
+x
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box52
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
+y
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen174
+\pgf@nodesepend=\dimen175
+)
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+y
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+)) (c:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen176
+\pgffor@skip=\dimen177
+\pgffor@stack=\toks27
+\pgffor@toks=\toks28
+))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
+de.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count190
+\pgfplotmarksize=\dimen178
+)
+\tikz@lastx=\dimen179
+\tikz@lasty=\dimen180
+\tikz@lastxsaved=\dimen181
+\tikz@lastysaved=\dimen182
+\tikz@lastmovetox=\dimen183
+\tikz@lastmovetoy=\dimen184
+\tikzleveldistance=\dimen185
+\tikzsiblingdistance=\dimen186
+\tikz@figbox=\box53
+\tikz@figbox@bg=\box54
+\tikz@tempbox=\box55
+\tikz@tempbox@bg=\box56
+\tikztreelevel=\count191
+\tikznumberofchildren=\count192
+\tikznumberofcurrentchild=\count193
+\tikz@fig@count=\count194
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count195
+\pgfmatrixcurrentcolumn=\count196
+\pgf@matrix@numberofcolumns=\count197
+)
+\tikz@expandcount=\count198
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks29
+\t@pgfplots@tokb=\toks30
+\t@pgfplots@tokc=\toks31
+\pgfplots@tmpa=\dimen187
+\c@pgfplots@coordindex=\count199
+\c@pgfplots@scanlineindex=\count266
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.te
+x))
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfs
+upp_loader.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex))
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststru
+cture.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststru
+ctureext.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.co
+de.tex
+\c@pgfplotsarray@tmp=\count267
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.c
+ode.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.c
+ode.tex
+\c@pgfplotstable@counta=\count268
+\t@pgfplotstable@a=\toks32
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.co
+de.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.
+tex))
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.te
+x)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfsh
+ading.code.tex
+\c@pgfplotslibrarysurf@no=\count269
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfsha
+ding.pgfsys-pdftex.def)))
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex))
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.t
+ex
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex
+))) (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.t
+ex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.t
+ex
+\pgfdecoratedcompleteddistance=\dimen188
+\pgfdecoratedremainingdistance=\dimen189
+\pgfdecoratedinputsegmentcompleteddistance=\dimen190
+\pgfdecoratedinputsegmentremainingdistance=\dimen191
+\pgf@decorate@distancetomove=\dimen192
+\pgf@decorate@repeatstate=\count270
+\pgfdecorationsegmentamplitude=\dimen193
+\pgfdecorationsegmentlength=\dimen194
+)
+\tikz@lib@dec@box=\box57
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.pathmorphing.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
+orations.pathmorphing.code.tex))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.pathreplacing.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
+orations.pathreplacing.code.tex))
+\pgfplots@numplots=\count271
+\pgfplots@xmin@reg=\dimen195
+\pgfplots@xmax@reg=\dimen196
+\pgfplots@ymin@reg=\dimen197
+\pgfplots@ymax@reg=\dimen198
+\pgfplots@zmin@reg=\dimen199
+\pgfplots@zmax@reg=\dimen256
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.
+tex
+File: pgflibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count272
+\l__pdf_internal_box=\box58
+)
+(./progression-chart-b.aux)
+\openout1 = `progression-chart-b.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+(c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count273
+\scratchdimen=\dimen257
+\scratchbox=\box59
+\nofMPsegments=\count274
+\nofMParguments=\count275
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count276
+\MPscratchDim=\dimen258
+\MPnumerator=\count277
+\makeMPintoPDFobject=\count278
+\everyMPtoPDFconversion=\toks34
+) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EveryShipout initializing macros
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.17}).
+
+PGFPlots: reading {inverted-MDEO_SC-CRA-CRA_Model_B-average-objective-progressi
+on.csv}
+NOTE: coordinate (1Y2.0e0],1.1) has been dropped because of a coordinate filter
+. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.0e0],1.14166666666667) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.0e0],1.24166666666667) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.0e0],1.09074074074074) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.0e0],1.03712962962963) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.0e0],0.810462962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.0e0],0.396037037037037) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.0e1],0.039444444444445) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.2e1],-0.815787037037037) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.29999e1],-1.15428571428571) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.4e1],-1.72466798941799) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.5e1],-2.25712169312169) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.7e1],-4.26102380952381) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.79999e1],-1.94998842592593) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.9e1],-1.17501058201058) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.0e1],-0.880218726379441) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.2e1],-0.346929232804233) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.29999e1],-0.173686507936508) has been dropped because of 
+a coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.4e1],0.130152777777778) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.5e1],0.272901455026455) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.7e1],0.529845238095238) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.79999e1],0.691369236583522) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.9e1],0.803847190728143) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.0e1],0.902421264802217) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.2e1],1.03448456790123) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.29999e1],1.12326102292769) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.4e1],1.25037232300328) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.5e1],1.33017787855883) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.7e1],1.41159964726631) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.79999e1],1.43997001763668) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.9e1],1.48696428571429) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.0e1],1.52628439153439) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.2e1],1.61930423280423) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.29999e1],1.63982275132275) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.4e1],1.6463835978836) has been dropped because of a coord
+inate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.5e1],1.67537830687831) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.7e1],1.70381746031746) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.79999e1],1.71798412698413) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.9e1],1.75107936507937) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.0e1],1.80988888888889) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.2e1],1.84147619047619) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.29999e1],1.87443915343915) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.4e1],1.89282804232804) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.5e1],1.90894841269841) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.7e1],1.91147817460317) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.79999e1],1.9234041005291) has been dropped because of a c
+oordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.9e1],1.94777447089947) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.0e1],1.96209986772487) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.2e1],2.00306216931217) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.29999e1],2.00306216931217) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.4e1],2.00603835978836) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.5e1],2.01742724867725) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.7e1],2.02264947089947) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.79999e1],2.02376058201058) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.9e1],2.03575) has been dropped because of a coordinate fi
+lter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.0e1],2.03871296296296) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.2e1],2.04565740740741) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.29999e1],2.05843518518519) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.4e1],2.05843518518519) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.5e1],2.05843518518519) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.7e1],2.05843518518519) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.79999e1],2.05843518518519) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.9e1],2.05843518518519) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.0e1],2.05843518518519) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.2e1],2.05843518518519) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.29999e1],2.06276851851852) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.4e1],2.06749074074074) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.5e1],2.06749074074074) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.7e1],2.06749074074074) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.79999e1],2.07082407407407) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.9e1],2.07082407407407) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.0e1],2.07082407407407) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.2e1],2.07082407407407) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.29999e1],2.07937962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.4e1],2.07937962962963) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.5e1],2.07937962962963) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.7e1],2.07937962962963) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.79999e1],2.07937962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.9e1],2.08026851851852) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.0e2],2.08026851851852) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.01999e2],2.08026851851852) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.03e2],2.08026851851852) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.04e2],2.08026851851852) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.04999e2],2.08026851851852) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.06999e2],2.08860185185185) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.07999e2],2.09137962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.09e2],2.09137962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.09999e2],2.09471296296296) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.12e2],2.09471296296296) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.12999e2],2.09471296296296) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.14e2],2.09471296296296) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.15e2],2.09471296296296) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.17e2],2.09471296296296) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.18e2],2.09471296296296) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.18999e2],2.09471296296296) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.2e2],2.09471296296296) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.21999e2],2.09582407407407) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.23e2],2.09582407407407) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.23999e2],2.09582407407407) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.25e2],2.09582407407407) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.26999e2],2.09582407407407) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.28e2],2.09582407407407) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.29e2],2.10626851851852) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.29999e2],2.10626851851852) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.31999e2],2.10626851851852) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.32999e2],2.10626851851852) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.34e2],2.10626851851852) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.34999e2],2.10626851851852) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.37e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.37999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.39e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.4e2],2.10737962962963) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.42e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.43e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.43999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.45e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.46999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.48e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.48999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.5e2],2.10737962962963) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.51999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.53e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.54e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.54999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.56999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.57999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.59e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.59999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.62e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.62999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.64e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.65e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.67e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.68e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.68999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.7e2],2.10737962962963) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.71999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.73e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.73999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.75e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.76999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.78e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.79e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.79999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.81999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.82999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.84e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.84999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.87e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.87999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.89e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.9e2],2.10737962962963) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.92e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.93e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.93999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.95e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.96999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.98e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.98999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.0e2],2.10737962962963) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.01999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.03e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.04e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.04999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.06999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.07999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.09e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.09999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.12e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.12999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.14e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.15e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.17e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.18e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.18999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.2e2],2.10737962962963) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.21999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.23e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.23999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.25e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.26999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.28e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.29e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.29999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.31999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.32999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.34e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.34999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.37e2],2.10737962962963) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.37999e2],2.10737962962963) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+PGFPlots: reading {inverted-MDEO_UC-CRA-CRA_Model_B-average-objective-progressi
+on.csv}
+NOTE: coordinate (1Y2.0e0],1.06666666666667) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.0e0],1.23888888888889) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.0e0],1.27222222222222) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.0e0],1.17083333333333) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.0e0],0.850833333333333) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.0e0],0.637222222222222) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.0e0],0.200185185185185) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.0e1],-0.112027777777778) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.2e1],-1.21152513227513) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.29999e1],-1.9014417989418) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.4e1],-2.35252173091459) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.5e1],-2.26286265432099) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.7e1],-2.03252094356261) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.79999e1],-2.26640873015873) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.9e1],-2.21222836356765) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.0e1],-1.40302532123961) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.2e1],-2.02461545729403) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.29999e1],-2.40862268518518) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.4e1],-1.42924225245654) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.5e1],-1.32271825396825) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.7e1],-0.729790013227513) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.79999e1],-0.57950675547997) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.9e1],-0.468003779289494) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.0e1],-0.310773620559335) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.2e1],-0.188704837490552) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.29999e1],-0.158687830687831) has been dropped because of 
+a coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.4e1],-0.099246031746032) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.5e1],-0.065912698412698) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.7e1],-0.012208994708995) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.79999e1],-0.011018518518519) has been dropped because of 
+a coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.9e1],0.017907407407408) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.0e1],0.02212962962963) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.2e1],0.0425) has been dropped because of a coordinate fil
+ter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.29999e1],0.0425) has been dropped because of a coordinate
+ filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.4e1],0.044814814814815) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.5e1],0.044814814814815) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.7e1],0.051623204837491) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.79999e1],0.051623204837491) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.9e1],0.115975056689343) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.0e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.2e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.29999e1],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.4e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.5e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.7e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.79999e1],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.9e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.0e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.2e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.29999e1],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.4e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.5e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.7e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.79999e1],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.9e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.0e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.2e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.29999e1],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.4e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.5e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.7e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.79999e1],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.9e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.0e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.2e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.29999e1],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.4e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.5e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.7e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.79999e1],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.9e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.0e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.2e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.29999e1],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.4e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.5e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.7e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.79999e1],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.9e1],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.0e2],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.01999e2],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.03e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.04e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.04999e2],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.06999e2],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.07999e2],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.09e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.09999e2],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.12e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.12999e2],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.14e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.15e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.17e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.18e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.18999e2],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.2e2],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.21999e2],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.23e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.23999e2],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.25e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.26999e2],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.28e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.29e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.29999e2],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.31999e2],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.32999e2],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.34e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.34999e2],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.37e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.37999e2],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.39e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.4e2],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.42e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.43e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.43999e2],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.45e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.46999e2],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.48e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.48999e2],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.5e2],0.139586167800454) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.51999e2],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.53e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.54e2],0.139586167800454) has been dropped because of a co
+ordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.54999e2],0.139586167800454) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+PGFPlots: reading {inverted-MDEO_SCRF-CRA-CRA_Model_B-average-objective-progres
+sion.csv}
+NOTE: coordinate (1Y2.0e0],0.561735985134795) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.0e0],0.696971875787352) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.0e0],0.817038139329806) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.0e0],0.900138888888889) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.0e0],1.04732867220962) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.0e0],1.11327601410935) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.0e0],1.16692869740489) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.0e1],1.19760550516503) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.2e1],1.25841710758377) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.29999e1],1.28873456790123) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.4e1],1.32848765432099) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.5e1],1.34109126984127) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.7e1],1.36126606198035) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.79999e1],1.37254982363316) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.9e1],1.37726212522046) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.0e1],1.40439395943563) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.2e1],1.42048655202822) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.29999e1],1.43147861552028) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.4e1],1.45152821869489) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.5e1],1.45914065255732) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.7e1],1.46400176366843) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.79999e1],1.4671455026455) has been dropped because of a c
+oordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.9e1],1.51960692239859) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.0e1],1.53243099647266) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.2e1],1.5328167989418) has been dropped because of a coord
+inate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.29999e1],1.54048346560847) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.4e1],1.55182208994709) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.5e1],1.55182208994709) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.7e1],1.55348875661376) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.79999e1],1.5557208994709) has been dropped because of a c
+oordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.9e1],1.55726851851852) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.0e1],1.55746693121693) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.2e1],1.6029828042328) has been dropped because of a coord
+inate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.29999e1],1.60853835978836) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.4e1],1.60873677248677) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.5e1],1.60873677248677) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.7e1],1.61341931216931) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.79999e1],1.61341931216931) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.9e1],1.61341931216931) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.0e1],1.61341931216931) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.2e1],1.61411375661376) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.29999e1],1.61411375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.4e1],1.61744708994709) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.5e1],1.61744708994709) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.7e1],1.61744708994709) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.79999e1],1.61744708994709) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.9e1],1.61744708994709) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.0e1],1.61744708994709) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.2e1],1.61744708994709) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.29999e1],1.61744708994709) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.4e1],1.61744708994709) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.5e1],1.61966931216931) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.7e1],1.61966931216931) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.79999e1],1.62328042328042) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.9e1],1.62328042328042) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.0e1],1.62328042328042) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.2e1],1.62328042328042) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.29999e1],1.62328042328042) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.4e1],1.62328042328042) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.5e1],1.62328042328042) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.7e1],1.62328042328042) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.79999e1],1.62328042328042) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.9e1],1.62328042328042) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.0e1],1.62328042328042) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.2e1],1.62328042328042) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.29999e1],1.62328042328042) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.4e1],1.62328042328042) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.5e1],1.62328042328042) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.7e1],1.62328042328042) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.79999e1],1.62328042328042) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.9e1],1.62328042328042) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.0e1],1.62328042328042) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.2e1],1.62328042328042) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.29999e1],1.62453042328042) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.4e1],1.62453042328042) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.5e1],1.62453042328042) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.7e1],1.62453042328042) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.79999e1],1.62453042328042) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.9e1],1.62453042328042) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.0e2],1.62453042328042) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.01999e2],1.62453042328042) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.03e2],1.62453042328042) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.04e2],1.62453042328042) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.04999e2],1.62453042328042) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.06999e2],1.62453042328042) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.07999e2],1.62453042328042) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.09e2],1.62522486772487) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.09999e2],1.62522486772487) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.12e2],1.62522486772487) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.12999e2],1.62522486772487) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.14e2],1.62568783068783) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.15e2],1.62568783068783) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.17e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.18e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.18999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.2e2],1.62661375661376) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.21999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.23e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.23999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.25e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.26999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.28e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.29e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.29999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.31999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.32999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.34e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.34999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.37e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.37999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.39e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.4e2],1.62661375661376) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.42e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.43e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.43999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.45e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.46999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.48e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.48999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.5e2],1.62661375661376) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.51999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.53e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.54e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.54999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.56999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.57999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.59e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.59999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.62e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.62999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.64e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.65e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.67e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.68e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.68999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.7e2],1.62661375661376) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.71999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.73e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.73999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.75e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.76999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.78e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.79e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.79999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.81999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.82999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.84e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.84999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.87e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.87999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.89e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.9e2],1.62661375661376) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.92e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.93e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.93999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.95e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.96999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.98e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.98999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.0e2],1.62661375661376) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.01999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.03e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.04e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.04999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.06999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.07999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.09e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.09999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.12e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.12999e2],1.62661375661376) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.14e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.15e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.17e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.18e2],1.62661375661376) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+PGFPlots: reading {inverted-MDEO_SIC-CRA-CRA_Model_B-average-objective-progress
+ion.csv}
+NOTE: coordinate (1Y2.0e0],1.18333333333333) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.0e0],1.36666666666667) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.0e0],1.35555555555556) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.0e0],1.55277777777778) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.0e0],1.46833333333333) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.0e0],1.40962962962963) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.0e0],1.24153703703704) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.0e1],1.14542592592593) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.2e1],0.87607671957672) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.29999e1],0.732217309145881) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.4e1],0.584371693121693) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.5e1],0.657941578483245) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.7e1],0.301016250944822) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.79999e1],0.694288296800201) has been dropped because of a
+ coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.9e1],0.833694633408919) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.0e1],1.02166991055682) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.2e1],1.25566093474427) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.29999e1],1.34552645502646) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.4e1],1.4471397707231) has been dropped because of a coord
+inate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.5e1],1.48293342151676) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.7e1],1.54143474426808) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.79999e1],1.56459171075838) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y2.9e1],1.57553924162257) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.0e1],1.58895634920635) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.2e1],1.62436992945326) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.29999e1],1.62706261022928) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.4e1],1.6352848324515) has been dropped because of a coord
+inate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.5e1],1.65251895943563) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.7e1],1.68451168430335) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.79999e1],1.69272398589065) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.9e1],1.70703615520282) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.0e1],1.70814726631393) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.2e1],1.71036948853616) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.29999e1],1.72687742504409) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.4e1],1.73148059964727) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.5e1],1.73307782186949) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.7e1],1.74364329805996) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.79999e1],1.75216181657848) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y4.9e1],1.75216181657848) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.0e1],1.75216181657848) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.2e1],1.75216181657848) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.29999e1],1.75216181657848) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.4e1],1.75361684303351) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.5e1],1.7615930335097) has been dropped because of a coord
+inate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.7e1],1.76492636684303) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.79999e1],1.76492636684303) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y5.9e1],1.76492636684303) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.0e1],1.76810097001764) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.2e1],1.77184171075838) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.29999e1],1.77184171075838) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.4e1],1.77184171075838) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.5e1],1.77209634038801) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.7e1],1.77476300705467) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.79999e1],1.77476300705467) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y6.9e1],1.77476300705467) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.0e1],1.77476300705467) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.2e1],1.77476300705467) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.29999e1],1.77476300705467) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.4e1],1.77476300705467) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.5e1],1.77476300705467) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.7e1],1.77476300705467) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.79999e1],1.77609634038801) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y7.9e1],1.77787411816578) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.0e1],1.77787411816578) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.2e1],1.78588999118166) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.29999e1],1.78588999118166) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.4e1],1.78588999118166) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.5e1],1.78755665784832) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.7e1],1.78755665784832) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.79999e1],1.78755665784832) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y8.9e1],1.78755665784832) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.0e1],1.78755665784832) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.2e1],1.78755665784832) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.29999e1],1.79344554673721) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.4e1],1.79344554673721) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.5e1],1.79344554673721) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.7e1],1.79344554673721) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.79999e1],1.79344554673721) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y9.9e1],1.79344554673721) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.0e2],1.79344554673721) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.01999e2],1.79344554673721) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.03e2],1.79344554673721) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.04e2],1.79344554673721) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.04999e2],1.79344554673721) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.06999e2],1.79344554673721) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.07999e2],1.79344554673721) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.09e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.09999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.12e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.12999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.14e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.15e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.17e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.18e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.18999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.2e2],1.79476829805996) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.21999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.23e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.23999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.25e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.26999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.28e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.29e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.29999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.31999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.32999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.34e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.34999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.37e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.37999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.39e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.4e2],1.79476829805996) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.42e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.43e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.43999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.45e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.46999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.48e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.48999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.5e2],1.79476829805996) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.51999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.53e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.54e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.54999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.56999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.57999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.59e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.59999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.62e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.62999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.64e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.65e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.67e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.68e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.68999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.7e2],1.79476829805996) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.71999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.73e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.73999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.75e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.76999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.78e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.79e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.79999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.81999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.82999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.84e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.84999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.87e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.87999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.89e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.9e2],1.79476829805996) has been dropped because of a coor
+dinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.92e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.93e2],1.79476829805996) has been dropped because of a coo
+rdinate filter. (see also unbounded coords=jump). 
+NOTE: coordinate (1Y1.93999e2],1.79476829805996) has been dropped because of a 
+coordinate filter. (see also unbounded coords=jump). 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 43.
+[1
+
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./progression-chart-b.aux) ) 
+Here is how much of TeX's memory you used:
+ 22461 strings out of 480608
+ 595538 string characters out of 5907536
+ 960680 words of memory out of 5000000
+ 38017 multiletter control sequences out of 15000+600000
+ 532338 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 74i,18n,127p,740b,2104s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2020/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr5.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy5.pfb>
+Output written on progression-chart-b.pdf (1 page, 22072 bytes).
+PDF statistics:
+ 19 PDF objects out of 1000 (max. 8388607)
+ 13 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- - Copyright (c) 2015 SAP SE and others. - All rights reserved. This 
+	program and the accompanying materials - are made available under the terms 
+	of the Eclipse Public License v1.0 - which accompanies this distribution, 
+	and is available at - http://www.eclipse.org/legal/epl-v10.html - - Contributors: 
+	- SAP SE - initial API and implementation -->
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>experiments</groupId>
+	<artifactId>sound-complete</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<properties>
+		<tycho.version>2.0.0</tycho.version>
+		<xtext.version>2.23.0</xtext.version>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<eclipse-repo.url>http://download.eclipse.org/releases/latest</eclipse-repo.url>
+		<emf-repo.url>https://download.eclipse.org/modeling/emf/emf/builds/release/2.23</emf-repo.url>
+		<ocl-repo.url>https://download.eclipse.org/modeling/mdt/ocl/updates/releases/6.11.0</ocl-repo.url>
+		<henshin-repo.url>http://download.eclipse.org/modeling/emft/henshin/updates/nightly</henshin-repo.url>
+		<mdeo-repo.url>http://mde-optimiser.github.io/mdeo_repo/src/composite/develop/</mdeo-repo.url>
+	</properties>
+	
+	<repositories>
+		<repository>
+			<id>eclipse-latest</id>
+			<layout>p2</layout>
+			<url>${eclipse-repo.url}</url>
+		</repository>
+
+		<repository>
+			<id>emf-latest</id>
+			<layout>p2</layout>
+			<url>${emf-repo.url}</url>
+		</repository>
+
+		<!-- <repository>
+			<id>ocl</id>
+			<layout>p2</layout>
+			<url>${ocl-repo.url}</url>
+		</repository> -->
+
+		<repository>
+			<id>henshin</id>
+			<layout>p2</layout>
+			<url>${henshin-repo.url}</url>
+		</repository>
+
+		<repository>
+			<id>mdeo</id>
+			<layout>p2</layout>
+			<url>${mdeo-repo.url}</url>
+		</repository>
+	</repositories>
+
+	<modules>
+		<module>CRA</module>
+		<!--<module>NRP</module>
+		<module>SCRUM</module>-->
+	</modules>
+	<profiles>
+		<profile>
+			<id>clean-xtend-gen</id>
+			<activation>
+				<file>
+					<exists>src/main/xtend-gen</exists>
+				</file>
+			</activation>
+			<build>
+				<plugins>
+					<plugin>
+						<artifactId>maven-clean-plugin</artifactId>
+						<version>3.1.0</version>
+						<configuration>
+							<filesets>
+								<fileset>
+									<directory>src/main/xtend-gen</directory>
+									<includes>
+										<include>**</include>
+									</includes>
+								</fileset>
+							</filesets>
+						</configuration>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>  
+	</profiles>
+
+
+	<dependencies>
+		<dependency>
+			<groupId>org.junit.jupiter</groupId>
+			<artifactId>junit-jupiter-engine</artifactId>
+			<version>5.6.0</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+		
+	<build>
+		<pluginManagement>
+			<plugins>
+				<plugin>
+					<groupId>org.eclipse.xtend</groupId>
+					<artifactId>xtend-maven-plugin</artifactId>
+					<version>${xtext.version}</version>
+					<executions>
+						<execution>
+							<goals>
+								<goal>compile</goal>			
+							</goals>
+							<configuration>
+								<outputDirectory>src/main/xtend-gen</outputDirectory>
+							</configuration>
+						</execution>
+					</executions>
+				</plugin>					
+				<!--<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-dependency-plugin</artifactId>
+					<version>3.1.2</version>
+					<executions>
+						<execution>
+							<id>copy-dependencies</id>
+							<phase>compile</phase>
+							<goals>
+								<goal>copy-dependencies</goal>
+							</goals>
+							<configuration>
+								<outputDirectory>${project.build.directory}/dependencies</outputDirectory>
+								<overWriteReleases>false</overWriteReleases>
+								<overWriteSnapshots>true</overWriteSnapshots>
+							</configuration>
+						</execution>
+					</executions>
+				</plugin>-->
+			</plugins>
+		</pluginManagement>
+		
+		<plugins>	
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>3.0.0-M5</version>
+				<executions>
+				  <execution>
+					<id>test</id>
+					<phase>test</phase>
+					<configuration>
+					  <includes>
+						<include>**/*Test.java</include>
+					  </includes>
+					</configuration>
+					<goals>
+					  <goal>test</goal>
+					</goals>
+				  </execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.8.1</version>
+				<configuration>
+					<release>11</release>
+				</configuration>
+				<executions>
+				  <execution>
+					<id>compiletests</id>
+					<phase>test-compile</phase>
+					<goals>
+					  <goal>testCompile</goal>
+					</goals>
+				  </execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.eclipse.tycho</groupId>
+				<artifactId>tycho-surefire-plugin</artifactId>
+				<version>${tycho.version}</version>
+			</plugin>		
+			<plugin>
+				<groupId>org.eclipse.tycho</groupId>
+				<artifactId>tycho-maven-plugin</artifactId>
+				<version>${tycho.version}</version>
+				<extensions>true</extensions>
+			</plugin>
+		</plugins>
+	</build>
+</project>

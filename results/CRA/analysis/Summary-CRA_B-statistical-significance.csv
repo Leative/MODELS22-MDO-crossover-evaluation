@@ -1,0 +1,7 @@
+tools (comparison order: row x column),CROSS_CRA_B,SC_CRA_B
+CROSS_CRA_B P Value,1.0,2.7966913074273236E-6
+CROSS_CRA_B Cohen D,0.0,Large
+CROSS_CRA_B Cliff's delta,0.0,-1.0
+SC_CRA_B P Value,2.7966913074273236E-6,1.0
+SC_CRA_B Cohen D,Large,0.0
+SC_CRA_B Cliff's delta,1.0,0.0

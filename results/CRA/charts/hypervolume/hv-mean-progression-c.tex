@@ -1,0 +1,39 @@
+\documentclass[]{standalone}
+\usepackage{xcolor}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.17}
+
+\definecolor{blue}{RGB}{128, 177, 211}
+\definecolor{red}{RGB}{251, 128, 114}
+\definecolor{green}{RGB}{140, 220, 130}
+
+\begin{document}
+\begin{tikzpicture}
+\begin{axis}[
+		xmax=870,
+		ylabel shift = -5pt,
+		xlabel shift = -5pt,	
+		xlabel=Iterations,
+		ylabel=Mean Hypervolume,
+		label style={font=\tiny},
+		tick label style={font=\tiny},
+		height=5cm,
+    legend columns=1,
+		every axis plot/.append style={thick},
+		line join=bevel,
+		legend style={
+					at={(0.7,0.5)},
+					font=\tiny,
+					/tikz/column 2/.style={
+		       column sep=2pt,
+		    },
+    		anchor=north}]
+	\addplot[color=blue] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/SC_CRA_C-hv-mean-progression.csv};
+		\addlegendentry{\scalebox{0.9}{SC}}
+	\addplot[color=red] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/UC_CRA_C-hv-mean-progression.csv};
+		\addlegendentry{\scalebox{0.9}{UC}}
+	\addplot[color=green] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/SIC_CRA_C-hv-mean-progression.csv};
+      \addlegendentry{\scalebox{0.9}{SIC}}
+\end{axis}
+\end{tikzpicture}
+\end{document}
