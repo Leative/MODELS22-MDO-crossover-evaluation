@@ -29,5 +29,5 @@ solver {
 		 delta: 3
 		 iterations: 100
 	}
-	batches 10
+	batches 1
 }
