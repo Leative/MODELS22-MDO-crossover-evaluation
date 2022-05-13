@@ -21,7 +21,7 @@ search {
 solver {
 	optimisation provider moea algorithm NSGAII {
 		population: 100
-		variation: probabilistic (0.4, 1)
+		variation: probabilistic (1, 1)
 		mutation.step: 1
 		mutation.strategy: random
 		crossover.strategy: problempart

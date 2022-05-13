@@ -1,7 +1,7 @@
 problem {
 	basepath <models/>
 	metamodel <architectureCRA.ArchitectureCRAPackage>
-	model <TTC_InputRDG_C.xmi>
+	model <TTC_InputRDG_B.xmi>
 	define problem part using <crossoverdefinition.problempart.CraProblemPartSpecifier>
 }
 goal {
@@ -21,7 +21,7 @@ search {
 solver {
 	optimisation provider moea algorithm NSGAII {
 		population: 100
-		variation: probabilistic (0.4, 1)
+		variation: probabilistic (0.2, 1)
 		mutation.step: 1
 		mutation.strategy: random
 		crossover.strategy: problempart
