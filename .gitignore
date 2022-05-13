@@ -8,3 +8,8 @@ runs/
 .project
 .settings/
 .classpath
+analysis/
+*aux
+*bbl
+*blg
+flightRecorder/

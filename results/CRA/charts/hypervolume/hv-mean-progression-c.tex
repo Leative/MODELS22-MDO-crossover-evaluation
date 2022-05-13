@@ -6,6 +6,8 @@
 \definecolor{blue}{RGB}{128, 177, 211}
 \definecolor{red}{RGB}{251, 128, 114}
 \definecolor{green}{RGB}{140, 220, 130}
+\definecolor{purple}{RGB}{251, 128, 224}
+\definecolor{yellow}{RGB}{251, 228, 124}
 
 \begin{document}
 \begin{tikzpicture}
@@ -28,12 +30,16 @@
 		       column sep=2pt,
 		    },
     		anchor=north}]
-	\addplot[color=blue] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/SC_CRA_C-hv-mean-progression.csv};
-		\addlegendentry{\scalebox{0.9}{SC}}
-	\addplot[color=red] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/UC_CRA_C-hv-mean-progression.csv};
-		\addlegendentry{\scalebox{0.9}{UC}}
-	\addplot[color=green] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/SIC_CRA_C-hv-mean-progression.csv};
-      \addlegendentry{\scalebox{0.9}{SIC}}
+	\addplot[color=blue] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/CROSS-SC-M1_CRA_C-hv-mean-progression.csv};
+		\addlegendentry{\scalebox{0.9}{CROSS-SC-M1}}
+	\addplot[color=red] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/CROSS-SC-M3_CRA_C-hv-mean-progression.csv};
+		\addlegendentry{\scalebox{0.9}{CROSS-SC-M3}}
+	\addplot[color=green] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/CROSS-SC-UC-M1_CRA_C-hv-mean-progression.csv};
+      \addlegendentry{\scalebox{0.9}{CROSS-SC-UC-M1}}
+	\addplot[color=purple] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/CROSS-SC-UC-M3_CRA_C-hv-mean-progression.csv};
+      \addlegendentry{\scalebox{0.9}{CROSS-SC-UC-M3}}
+	\addplot[color=yellow] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/SC_CRA_C-hv-mean-progression.csv};
+      \addlegendentry{\scalebox{0.9}{SC}}
 \end{axis}
 \end{tikzpicture}
 \end{document}
