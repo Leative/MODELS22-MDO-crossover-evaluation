@@ -4,7 +4,7 @@
 
 # Be aware of os specific path separators in classpath (: Linux, ; Windows/Mac)
 execute_single_config () {
-	for i in {0..0}
+	for i in {0..9}
 	do
 		java -Xmx8192m -cp "$CLASSPATH_ADDITION;./MDEOptimiser/*" uk.ac.kcl.inf.mdeoptimiser.interfaces.cli.Run -m "$2" -p "$3" -b "$i"
 	done
