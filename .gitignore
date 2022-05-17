@@ -9,7 +9,8 @@ runs/
 .settings/
 .classpath
 analysis/
-*aux
-*bbl
-*blg
+*.aux
+*.bbl
+*.blg
+*.log
 flightRecorder/
