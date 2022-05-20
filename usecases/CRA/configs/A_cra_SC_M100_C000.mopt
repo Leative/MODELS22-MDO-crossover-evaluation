@@ -1,8 +1,7 @@
 problem {
 	basepath <models/>
 	metamodel <architectureCRA.ArchitectureCRAPackage>
-	model <TTC_InputRDG_C.xmi>
-	define problem part using <crossoverdefinition.problempart.CraProblemPartSpecifier>
+	model <TTC_InputRDG_A.xmi>
 }
 goal {
 	objective Cohesion maximise java { "guidancefunctions.Cohesion" }
@@ -16,15 +15,13 @@ search {
 	mutate using <cra-mutation.henshin> unit "moveFeatureToExClass"
 	mutate using <cra-mutation.henshin> unit "deleteEmptyClass"
 	mutate using <cra-mutation.henshin> unit "moveFeatureToNewClass"
-	mutate using <cra-mutation.henshin> unit "removeFeatureFromExClass"
 }
 solver {
 	optimisation provider moea algorithm NSGAII {
 		population: 100
-		variation: genetic
+		variation: mutation
 		mutation.step: 1
 		mutation.strategy: random
-		crossover.strategy: problempart
 	}
 	termination {
 		 delta: 3
