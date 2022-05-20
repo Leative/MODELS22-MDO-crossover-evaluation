@@ -38,12 +38,6 @@
 			<url>${emf-repo.url}</url>
 		</repository>
 
-		<!-- <repository>
-			<id>ocl</id>
-			<layout>p2</layout>
-			<url>${ocl-repo.url}</url>
-		</repository> -->
-
 		<repository>
 			<id>henshin</id>
 			<layout>p2</layout>
@@ -59,9 +53,8 @@
 
 	<modules>
 		<module>CRA</module>
-		<!--<module>NRP</module>
-		<module>SCRUM</module>-->
 	</modules>
+	
 	<profiles>
 		<profile>
 			<id>clean-xtend-gen</id>
@@ -119,25 +112,6 @@
 						</execution>
 					</executions>
 				</plugin>					
-				<!--<plugin>
-					<groupId>org.apache.maven.plugins</groupId>
-					<artifactId>maven-dependency-plugin</artifactId>
-					<version>3.1.2</version>
-					<executions>
-						<execution>
-							<id>copy-dependencies</id>
-							<phase>compile</phase>
-							<goals>
-								<goal>copy-dependencies</goal>
-							</goals>
-							<configuration>
-								<outputDirectory>${project.build.directory}/dependencies</outputDirectory>
-								<overWriteReleases>false</overWriteReleases>
-								<overWriteSnapshots>true</overWriteSnapshots>
-							</configuration>
-						</execution>
-					</executions>
-				</plugin>-->
 			</plugins>
 		</pluginManagement>
 		

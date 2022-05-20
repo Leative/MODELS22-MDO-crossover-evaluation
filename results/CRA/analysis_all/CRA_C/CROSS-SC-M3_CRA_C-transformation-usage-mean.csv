@@ -1,0 +1,11 @@
+row,values
+"[addUnassignedFeatureToExClass, addUnassignedFeatureToNewClass, addUnassignedFeatureToExClass]",0.1
+"[addUnassignedFeatureToExClass, addUnassignedFeatureToNewClass, addUnassignedFeatureToNewClass]",0.1
+"[addUnassignedFeatureToExClass, moveFeatureToExClass, addUnassignedFeatureToExClass]",0.1
+"[addUnassignedFeatureToNewClass, addUnassignedFeatureToExClass, addUnassignedFeatureToExClass]",0.1
+"[addUnassignedFeatureToNewClass, addUnassignedFeatureToExClass, moveFeatureToExClass]",0.1
+"[addUnassignedFeatureToNewClass, addUnassignedFeatureToNewClass, addUnassignedFeatureToNewClass]",0.1
+"[addUnassignedFeatureToNewClass, deleteEmptyClass, moveFeatureToExClass]",0.1
+"[moveFeatureToExClass, addUnassignedFeatureToNewClass, addUnassignedFeatureToNewClass]",0.1
+"[moveFeatureToNewClass, addUnassignedFeatureToNewClass, addUnassignedFeatureToNewClass]",0.1
+"[moveFeatureToNewClass, moveFeatureToExClass, deleteEmptyClass]",0.1

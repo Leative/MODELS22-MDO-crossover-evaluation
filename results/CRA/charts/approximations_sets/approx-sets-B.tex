@@ -24,7 +24,7 @@
 		every axis plot/.append style={thick},
 		line join=bevel,
 		legend style={
-					at={(0.8,0.35)},
+					at={(0.25,0.92)},
 					font=\tiny,
 					/tikz/column 2/.style={
 		       column sep=2pt,
@@ -34,12 +34,17 @@
 		\addplot[only marks, mark=square*, mark size=0.6pt, line width=0.02pt, blue, fill=bluefill] table [x expr=-1*\thisrowno{0}, col sep=space, each nth point=1] {../../analysis/CRA_B/approx-sets/SC_CRA_B-cumulative-approx-set.csv};
 		\addlegendentry{\scalebox{0.9}{SC}}
 		
-		\addplot[only marks, mark=o, mark size=1.0pt, line width=0.3pt, color=red] table [x expr=-1*\thisrowno{0}, col sep=space, each nth point=1] {../../analysis/CRA_B/approx-sets/CROSS-SC-M100-C010_CRA_B-cumulative-approx-set.csv};
-		\addlegendentry{\scalebox{0.9}{C-M100-C10}}
+				\addplot[only marks, mark=o, mark size=1.2pt, line width=0.3pt, color=gray] table [x expr=-1*\thisrowno{0}, col sep=space, each nth point=1] {../../analysis/CRA_B/approx-sets/M100-C010_CRA_B-cumulative-approx-set.csv};
+		\addlegendentry{\scalebox{0.9}{M100-C10}}
 		
-		\addplot[only marks, mark=triangle*, mark size=0.8pt, line width=0.02pt, green, fill=greenfill] table [x expr=-1*\thisrowno{0}, col sep=space, each nth point=1] {../../analysis/CRA_B/approx-sets/CROSS-SC-M100-C020_CRA_B-cumulative-approx-set.csv};
-     \addlegendentry{\scalebox{0.9}{C-M100-C20}}
-
+		\addplot[only marks, mark=o, mark size=1.0pt, line width=0.3pt, color=red] table [x expr=-1*\thisrowno{0}, col sep=space, each nth point=1] {../../analysis/CRA_B/approx-sets/M100-C010-R_CRA_B-cumulative-approx-set.csv};
+		\addlegendentry{\scalebox{0.9}{M100-C10-R}}
+		
+		\addplot[only marks, mark=triangle*, mark size=0.8pt, line width=0.02pt, black] table [x expr=-1*\thisrowno{0}, col sep=space, each nth point=1] {../../analysis/CRA_B/approx-sets/GEN-M1-C1_CRA_B-cumulative-approx-set.csv};
+     \addlegendentry{\scalebox{0.9}{M100-C100}}
+		
+				\addplot[only marks, mark=triangle*, mark size=0.8pt, line width=0.02pt, green, fill=greenfill] table [x expr=-1*\thisrowno{0}, col sep=space, each nth point=1] {../../analysis/CRA_B/approx-sets/M100-C100-R_CRA_B-cumulative-approx-set.csv};
+     \addlegendentry{\scalebox{0.9}{M100-C100-R}}
 \end{axis}
 \end{tikzpicture}
 \end{document}

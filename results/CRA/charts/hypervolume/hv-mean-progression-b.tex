@@ -30,10 +30,10 @@
     		anchor=north}]
 	\addplot[color=blue] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_B/SC_CRA_B-hv-mean-progression.csv};
 		\addlegendentry{\scalebox{0.9}{SC}}
-	\addplot[color=red] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_B/UC_CRA_B-hv-mean-progression.csv};
-		\addlegendentry{\scalebox{0.9}{UC}}
-	\addplot[color=green] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_B/SIC_CRA_B-hv-mean-progression.csv};
-      \addlegendentry{\scalebox{0.9}{SIC}}
+	\addplot[color=red] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_B/M100-C010-R_CRA_B-hv-mean-progression.csv};
+		\addlegendentry{\scalebox{0.9}{M100-C10-R}}
+	\addplot[color=green] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_B/M100-C100-R_CRA_B-hv-mean-progression.csv};
+      \addlegendentry{\scalebox{0.9}{M100-C100-R}}
 \end{axis}
 \end{tikzpicture}
 \end{document}

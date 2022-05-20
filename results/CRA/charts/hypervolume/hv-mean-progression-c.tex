@@ -30,16 +30,16 @@
 		       column sep=2pt,
 		    },
     		anchor=north}]
-	\addplot[color=blue] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/CROSS-SC-M1_CRA_C-hv-mean-progression.csv};
-		\addlegendentry{\scalebox{0.9}{CROSS-SC-M1}}
-	\addplot[color=red] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/CROSS-SC-M3_CRA_C-hv-mean-progression.csv};
-		\addlegendentry{\scalebox{0.9}{CROSS-SC-M3}}
-	\addplot[color=green] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/CROSS-SC-UC-M1_CRA_C-hv-mean-progression.csv};
-      \addlegendentry{\scalebox{0.9}{CROSS-SC-UC-M1}}
-	\addplot[color=purple] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/CROSS-SC-UC-M3_CRA_C-hv-mean-progression.csv};
-      \addlegendentry{\scalebox{0.9}{CROSS-SC-UC-M3}}
-	\addplot[color=yellow] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/SC_CRA_C-hv-mean-progression.csv};
+	\addplot[color=blue] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/SC_CRA_C-hv-mean-progression.csv};
       \addlegendentry{\scalebox{0.9}{SC}}
+	\addplot[color=red] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/M100-C010-R_CRA_C-hv-mean-progression.csv};
+		\addlegendentry{\scalebox{0.9}{M100-C010-R}}
+	\addplot[color=green] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/M100-C100-R_CRA_C-hv-mean-progression.csv};
+		\addlegendentry{\scalebox{0.9}{M100-C100-R}}
+	%\addplot[color=green] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/CROSS-SC-UC-M1_CRA_C-hv-mean-progression.csv};
+      %\addlegendentry{\scalebox{0.9}{CROSS-SC-UC-M1}}
+	%\addplot[color=purple] table [x expr=\thisrowno{0}, col sep=comma, each nth point=1] {../../analysis/CRA_C/CROSS-SC-UC-M3_CRA_C-hv-mean-progression.csv};
+      %\addlegendentry{\scalebox{0.9}{CROSS-SC-UC-M3}}
 \end{axis}
 \end{tikzpicture}
 \end{document}

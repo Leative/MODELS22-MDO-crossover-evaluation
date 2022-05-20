@@ -1,5 +1,0 @@
-TTC_InputRDG_A.xmi
-TTC_InputRDG_B.xmi
-TTC_InputRDG_C.xmi
-TTC_InputRDG_D.xmi
-TTC_InputRDG_E.xmi

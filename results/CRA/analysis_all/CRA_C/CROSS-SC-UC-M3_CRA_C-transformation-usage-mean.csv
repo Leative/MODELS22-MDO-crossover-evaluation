@@ -1,0 +1,15 @@
+row,values
+"[addUnassignedFeatureToExClass, addUnassignedFeatureToExClass, addUnassignedFeatureToNewClass]",0.1
+"[addUnassignedFeatureToExClass, addUnassignedFeatureToExClass, moveFeatureToNewClass]",0.1
+"[addUnassignedFeatureToExClass, addUnassignedFeatureToNewClass, addUnassignedFeatureToNewClass]",0.05
+"[addUnassignedFeatureToExClass, addUnassignedFeatureToNewClass, moveFeatureToExClass]",0.1
+"[addUnassignedFeatureToExClass, moveFeatureToExClass, deleteEmptyClass]",0.05
+"[addUnassignedFeatureToExClass, moveFeatureToExClass, removeFeatureFromExClass]",0.05
+"[addUnassignedFeatureToExClass, moveFeatureToNewClass, addUnassignedFeatureToExClass]",0.05
+"[addUnassignedFeatureToNewClass, moveFeatureToExClass, addUnassignedFeatureToExClass]",0.05
+"[addUnassignedFeatureToNewClass, moveFeatureToNewClass, deleteEmptyClass]",0.1
+"[deleteEmptyClass, addUnassignedFeatureToExClass, addUnassignedFeatureToNewClass]",0.1
+"[moveFeatureToNewClass, addUnassignedFeatureToNewClass, addUnassignedFeatureToExClass]",0.05
+"[moveFeatureToNewClass, addUnassignedFeatureToNewClass, moveFeatureToNewClass]",0.05
+"[moveFeatureToNewClass, removeFeatureFromExClass, removeFeatureFromExClass]",0.05
+"[removeFeatureFromExClass, addUnassignedFeatureToExClass, addUnassignedFeatureToNewClass]",0.1
