@@ -13,5 +13,3 @@ analysis/
 *.bbl
 *.blg
 *.log
-flightRecorder/
-models22-evaluation-data.zip
