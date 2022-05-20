@@ -3,8 +3,7 @@
 ## Archive file
 The 7z archive contains the raw output data of MDEOptimiser. Despite its small size the extracted data needs about a gigabyte of disk space.
 For each evolutionary computation (called **batch**) a file `batch-\<batchNumber\>-data-steps.csv` is provided containing data about the elapsed time, the population and the non-dominated solutions of each iteration of the batch.
-A file `**batch-\<batchNumber\>-outcome.txt` contains a summary including more inforation about the non-dominated solutions of the last iteration. 
-For all evolutionary computations performed for a problem instance, the EMF instance models (`xmi` files) of the non-dominated solutions of the last iterations are available in the main folder of that problem instance.
+A file `**batch-\<batchNumber\>-outcome.txt` contains a summary including more information about the non-dominated solutions of the last iteration. Note that correctly tracking data about parent mutation steps and transformation chains in the presence of crossover has not yet been implemented; thus, the tracked data is invalid.
 
 ## Analysis folders
 The analysis folders contain data collected by an analytical tool from the output of MDEOptimiser.

@@ -1,7 +1,0 @@
-row,values
-[addUnassignedFeatureToExClass],0.2333333333333333
-[addUnassignedFeatureToNewClass],0.4333333333333333
-[deleteEmptyClass],0.03333333333333333
-[moveFeatureToExClass],0.13333333333333333
-[moveFeatureToNewClass],0.11666666666666665
-[removeFeatureFromExClass],0.05
