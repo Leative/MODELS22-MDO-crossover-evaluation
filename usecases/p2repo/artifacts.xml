@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='file:/d/test/repo - artifacts' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='2'>
+    <property name='p2.timestamp' value='1653069732993'/>
+    <property name='p2.compressed' value='false'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='1'>
+    <artifact classifier='osgi.bundle' id='uk.ac.kcl.inf.mdeoptimiser.libraries.core' version='1.0.0.20220517094804'>
+      <properties size='5'>
+        <property name='artifact.size' value='249930'/>
+        <property name='download.size' value='249930'/>
+        <property name='download.md5' value='1a8df67c2da8a15c4d74844270e61ac6'/>
+        <property name='download.checksum.md5' value='1a8df67c2da8a15c4d74844270e61ac6'/>
+        <property name='download.checksum.sha-256' value='557e04366509e403a6f824efaea68163f30444df2ab5a89999f14ac8665fc3b0'/>
+      </properties>
+    </artifact>
+  </artifacts>
+</repository>

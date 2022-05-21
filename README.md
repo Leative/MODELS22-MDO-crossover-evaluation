@@ -7,7 +7,7 @@ A precompiled version of the optimzation tool MDEOptimiser (as of 20th of May 20
 ## Folder structure
 All artifacts of the use case (CRA case) are located in the folder `usecases/CRA`. 
 The subfolder `models` contains the EMF meta-model, the instance models and the Henshin model transformations used as mutation and repair operators.
-The subfolder `src` contains the java implementation of the meta-model and, in the package `guidancefunctions`, the implementation of the feasibility constraints and objectives. The package `crossoverdefinition` contains a class used to specify the problem part of the meta-model.
+The subfolder `src` contains the java implementation of the meta-model and, in the package `guidancefunctions`, the implementation of the feasibility constraints and objectives. The package `crossoverdefinition` contains a class used to specify the problem part of the meta-model. Both packages need a part of the adapted MDEOptimiser as a dependency which is delivered as a local p2 repository in `usecases/p2repo`.
 The configuration files used by MDEOptimiser to specify the different variants of evolutionary algorithms are located in the folder `configs`.
 The detailed results of the experiments of the evaluation of the paper can be found in folder `results`.
 More information about the results can be found in the `README` contained in that folder.
