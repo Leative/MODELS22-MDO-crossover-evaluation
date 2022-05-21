@@ -23,7 +23,7 @@
 		<ocl-repo.url>https://download.eclipse.org/modeling/mdt/ocl/updates/releases/6.11.0</ocl-repo.url>
 		<henshin-repo.url>http://download.eclipse.org/modeling/emft/henshin/updates/nightly</henshin-repo.url>
 		<mdeo-repo.url>http://mde-optimiser.github.io/mdeo_repo/src/composite/develop/</mdeo-repo.url>
-		<mdeo-local-repo.url>file:/D:\01-arbeit\repos\xyz2022-MDO-crossover-evaluation\usecases\p2repo</mdeo-local-repo.url>
+		<mdeo-local-repo.url>file:/${project.basedir}\..\p2repo</mdeo-local-repo.url>
 	</properties>
 	
 	<repositories>
