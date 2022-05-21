@@ -1,0 +1,5 @@
+row,values
+[addUnassignedFeatureToExClass],0.55
+[addUnassignedFeatureToNewClass],0.25
+[deleteEmptyClass],0.1
+[moveFeatureToExClass],0.1
