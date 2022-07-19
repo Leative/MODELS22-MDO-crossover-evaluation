@@ -1,0 +1,15 @@
+row,values
+[],0.9355296091000579
+[addUnassignedFeatureToExClass],0.005820871846743505
+[addUnassignedFeatureToNewClass],0.003855279558522367
+[deleteEmptyClass],0.008004441573640097
+[moveFeatureToExClass],0.0375578140735589
+[moveFeatureToNewClass],0.00684722091186742
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",4.5045045045045046E-4
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",2.358490566037736E-4
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",4.854368932038835E-4
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",6.082725060827251E-5
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",9.46073793755913E-5
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",2.4055918663761804E-4
+"[removeMultiAssignment, removeMultiAssignment]",3.811329659761335E-4
+[removeMultiAssignment],4.3589975275420186E-4

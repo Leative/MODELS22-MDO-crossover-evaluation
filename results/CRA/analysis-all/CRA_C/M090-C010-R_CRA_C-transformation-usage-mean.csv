@@ -1,0 +1,23 @@
+row,values
+[],0.8648317991758292
+[addUnassignedFeatureToExClass],0.006098221403332009
+[addUnassignedFeatureToNewClass],0.012514085505760808
+[deleteEmptyClass],0.015033094745801268
+[moveFeatureToExClass],0.06431960493380444
+[moveFeatureToNewClass],0.015857753711950515
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",0.001
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",3.333333333333333E-4
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",0.0017543859649122805
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",0.0025
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",5.555555555555554E-4
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",0.0025
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",8.517887563884156E-5
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",0.0012752242597443837
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",0.002731316082185493
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",0.002824960305331988
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",7.383294253900716E-5
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",1.0333067587917442E-4
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",7.309941520467836E-5
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",0.0020027769409482693
+"[removeMultiAssignment, removeMultiAssignment]",2.3674242424242424E-5
+[removeMultiAssignment],0.003508771929824561

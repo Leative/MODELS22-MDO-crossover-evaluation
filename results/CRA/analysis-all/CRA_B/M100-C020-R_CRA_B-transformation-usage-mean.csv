@@ -1,0 +1,18 @@
+row,values
+[],0.43991640459452325
+[addUnassignedFeatureToExClass],0.028900423512240925
+[addUnassignedFeatureToNewClass],0.01968312197235274
+[deleteEmptyClass],0.10796158320034888
+[moveFeatureToExClass],0.2932410961970004
+[moveFeatureToNewClass],0.05021377511805704
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",0.0014628470809026363
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",0.0029929382837664575
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",0.0010833333333333333
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",0.0017877158173210804
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",0.003654535831445532
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",0.005393794091710758
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",0.007550743891902094
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",0.007683231091778578
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",0.018154750351717076
+"[removeMultiAssignment, removeMultiAssignment]",0.008243632399275865
+[removeMultiAssignment],0.002076073232323232

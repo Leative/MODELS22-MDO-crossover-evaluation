@@ -1,0 +1,11 @@
+row,values
+[],0.4461829865396042
+[addUnassignedFeatureToExClass],0.2024387634424399
+[addUnassignedFeatureToNewClass],0.060536256635521334
+[deleteEmptyClass],0.0443261848445672
+[moveFeatureToExClass],0.16695225975005384
+[moveFeatureToNewClass],0.04654000982677453
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",0.0014285714285714286
+"[removeMultiAssignment, removeMultiAssignment, removeMultiAssignment]",0.003229166666666666
+"[removeMultiAssignment, removeMultiAssignment]",0.0225
+[removeMultiAssignment],0.005865800865800866
