@@ -2,6 +2,7 @@ problem {
 	basepath <models/>
 	metamodel <architectureCRA.ArchitectureCRAPackage>
 	model <TTC_InputRDG_E.xmi>
+	define problem part using <crossoverdefinition.problempart.CraProblemPartSpecifier>
 }
 goal {
 	objective Cohesion maximise java { "guidancefunctions.Cohesion" }
@@ -19,9 +20,11 @@ search {
 solver {
 	optimisation provider moea algorithm NSGAII {
 		population: 100
-		variation: mutation
+		variation: probabilistic (0, 1)
 		mutation.step: 1
 		mutation.strategy: random
+		crossover.strategy: problempart
+		rep.strategy: none
 	}
 	termination {
 		 delta: 3
