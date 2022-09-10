@@ -1,0 +1,34 @@
+problem {
+	basepath <models/>
+	metamodel <architectureCRA.ArchitectureCRAPackage>
+	model <TTC_InputRDG_D.xmi>
+	define problem part using <crossoverdefinition.problempart.CraProblemPartSpecifier>
+}
+goal {
+	objective Cohesion maximise java { "guidancefunctions.Cohesion" }
+	objective Coupling minimise java { "guidancefunctions.Coupling" }
+	constraint MinimiseClasslessFeatures java { "guidancefunctions.MinimiseClasslessFeatures" }
+	constraint MinimiseMultiAssignedFeatures java { "guidancefunctions.MinimiseMultiAssignedFeatures" }
+}
+search { 
+	mutate using <cra-mutation.henshin> unit "addUnassignedFeatureToNewClass"
+	mutate using <cra-mutation.henshin> unit "addUnassignedFeatureToExClass"
+	mutate using <cra-mutation.henshin> unit "moveFeatureToExClass"
+	mutate using <cra-mutation.henshin> unit "deleteEmptyClass"
+	repair using <cra-repair.henshin> unit "removeMultiAssignment"
+}
+solver {
+	optimisation provider moea algorithm NSGAII {
+		population: 100
+		variation: probabilistic (0.6, 1)
+		mutation.step: 1
+		mutation.strategy: random
+		crossover.strategy: problempart
+		rep.strategy: sequential
+	}
+	termination {
+		 delta: 3
+		 iterations: 100
+	}
+	batches 1
+}
