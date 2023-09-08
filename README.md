@@ -1,3 +1,6 @@
+# Update
+This repo initally served as the artifact repo for the MODELS 2022 submission (published artifact branch). After fixing a bug in the crossover implementation it served as the repo for executing further experiments in the high-performance-cluster.
+
 # Towards a Configurable Crossover Operator for Model-Driven Optimization - Evaluation Data
 Evaluation artifacts for the paper _Towards a Configurable Crossover Operator for Model-Driven Optimization_ submitted to MODELS22.
 
